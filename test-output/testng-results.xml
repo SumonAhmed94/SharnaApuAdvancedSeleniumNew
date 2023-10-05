@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T14:53:04 EDT" name="Default suite" finished-at="2023-10-05T14:53:07 EDT" duration-ms="2521">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T14:53:04 EDT" name="Default test" finished-at="2023-10-05T14:53:07 EDT" duration-ms="2521">
+      <class name="com.instagram.pageObjectModel_LoginTests.LoginTest">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.instagram.pageObjectModel_LoginTests.LoginTest@4802796d]" started-at="2023-10-05T14:53:04 EDT" name="openApp" finished-at="2023-10-05T14:53:07 EDT" duration-ms="2291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.instagram.pageObjectModel_LoginTests.LoginTest@4802796d]" started-at="2023-10-05T14:53:07 EDT" name="validLoginTest" finished-at="2023-10-05T14:53:07 EDT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.instagram.pageObjectModel_LoginTests.LoginTest@4802796d]" started-at="2023-10-05T14:53:07 EDT" name="closeApp" finished-at="2023-10-05T14:53:07 EDT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.instagram.pageObjectModel_LoginTests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
