@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
 public WebDriver driver;
-PropertiesReader reader; // creating instance variable
+PropertiesReader reader; // building has a relationship here
  @BeforeMethod
  public void openApp() {
 	 reader=new PropertiesReader(); // creating object
